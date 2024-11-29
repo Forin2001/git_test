@@ -1,4 +1,4 @@
 # git_test
 hello odin
-ncnnnn
+ncnnnngit stat
 whats goodgit add
